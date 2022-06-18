@@ -2,4 +2,4 @@
 
 Thanks for checking me out! 
 
-<a rel="me" href="https://social.wildeboer.net/@jwildeboer">Mastodon Verification</a>
+I am <a rel="me" href="https://social.wildeboer.net/@jwildeboer">@jwildeboer@social.wildeboer.net</a> on Mastodon
